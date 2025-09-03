@@ -35,4 +35,4 @@ This is the backend for the Spy Cat Agency built with FastAPI and SQLite.
 - **Targets**:
   - `PATCH /missions/{mission_id}/targets/{target_id}/notes`: Update notes.
   - `PATCH /missions/{mission_id}/targets/{target_id}/complete`: Mark a target as complete.
-All endpoints are documented in the Postman collection in this repo or [HERE](https://example.com](https://maxhanych-9474331.postman.co/workspace/Maksym's-Workspace~b8cef587-3b59-4434-82fc-3db7b5707de1/collection/48142531-7e346a24-a1c3-4e51-8d14-418afc3b0465?action=share&source=copy-link&creator=48142531)). 
+All endpoints are documented in the Postman collection in this repo or [HERE](https://maxhanych-9474331.postman.co/workspace/Maksym's-Workspace~b8cef587-3b59-4434-82fc-3db7b5707de1/collection/48142531-7e346a24-a1c3-4e51-8d14-418afc3b0465?action=share&source=copy-link&creator=48142531). 
