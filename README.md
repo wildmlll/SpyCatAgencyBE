@@ -1,10 +1,6 @@
 # Spy Cat Agency Backend
 
 This is the backend for the Spy Cat Agency built with FastAPI and SQLite.
-## Prerequisites
-- Python 3.8 or higher
-- pip
-- git
 
 ## Setup
 1. **Install dependencies**:
